@@ -3,7 +3,7 @@
 2. bundle install
 3. ruby api.rb
 
-### Example
-For App Store app: `http://localhost:4567/search/itunes?id=appid`
+### Live Testing
+For App Store app: `https://pacific-plateau-84955.herokuapp.com/search/itunes?id=appid`
 
-For Android app: `http://localhost:4567/search/android?id=appid`
+For Android app: `https://pacific-plateau-84955.herokuapp.com/search/android?id=appid`
